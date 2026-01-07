@@ -31,6 +31,7 @@ This repository contains an open-source MEV/Arbitrage smart contract designed fo
 
 5. Deploy on BSC Mainnet and fund it (0.3 – 0.5 BNB recommended to cover gas + initial capital)
 6. For more information about how to use this code, please view this video: https://youtu.be/3OFH3SoFlqQ
+   
    all resources, codes and links are in the description of the Youtube video.
 
 
